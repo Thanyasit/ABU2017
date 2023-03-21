@@ -1,3 +1,4 @@
+//Emag
 #include "D:\Work T.Pongsak\Microcontroller\Work\ABU2\ABU2.h"
 #use delay (clock=20m)
 #use fast_io(A)
