@@ -29,5 +29,15 @@ The robot is controlled using a joystick. The following keys control the robot's
 - F: Lift down<br>
 - M: Angle up<br>
 - N: Angle down<br>
+
+## Example
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226979694-af592f35-832d-434c-b93b-9489c881b00d.jpg" width="500"><img src="https://user-images.githubusercontent.com/77733903/226979701-c51490c6-d415-452c-91d3-8f2f5c2c5657.jpg" width="375">
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226979698-ec4327f5-6725-43d4-9635-3b10525d0139.jpg" width="500">
+</p>
 <h2>License</h2>
-This code is licensed under the MIT License. See the LICENSE file for details.
+
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
